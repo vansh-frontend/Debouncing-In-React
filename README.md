@@ -329,7 +329,7 @@ useEffect(() => {
 Clone the repository
 
 ```bash
-git clone https://github.com/vansh-frontend/Debouncing-In-React.git
+git clone <your-repository-url>
 ```
 
 Navigate to the project
